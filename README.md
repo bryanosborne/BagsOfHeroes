@@ -1,7 +1,5 @@
 # BagsOfHeroes
 
-Modify the LinkedBag class to only allow one occurrence of a item/value to exist in the bag.
-
 Identify 8-10 comic book super heroes from at least 3 different publishers, i.e., DC, Marvel, etc.
 
 Create a LinkedBag of heroes for each of the publishers and load the heroes' names (a single String) into the appropriate bag.
